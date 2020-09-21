@@ -4,7 +4,7 @@
 
 ## Introduction to Sensors - data, examples, and exercises
 
-### Micropython Unicorn basic filter exercise
+### Micropython Unicorn filter exercise
 
 * [Micropython Unicorn basic filter example](micropython)
 

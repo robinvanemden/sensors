@@ -23,7 +23,7 @@ For more on the history of this simple but influential game, see, for instance: 
 
 ## Assignment
 
-Copy-paste `lunar-lander.py`'s source code at https://micropython.org/unicorn/
+Copy `lunar-lander.py`'s source code and paste it at https://micropython.org/unicorn/
 
 Then replace the constant burn rate in line 55 with interpolated input from the virtual slider,
 with some delay from a basic moving average filter (for instance with window of n = 3)

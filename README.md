@@ -4,7 +4,7 @@
 
 ## Introduction to Sensors - data, examples, and exercises
 
-### 30Mhz exercise
+### 30Mhz main exercise
 
 [Example models and data](30mhz)
 

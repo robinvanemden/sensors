@@ -163,6 +163,11 @@ def main(local_temp_df):
     plt.plot(day.hour, temps, label="actual (day 24)")
     plt.xlabel("time of day")
     plt.ylabel("temperature")
+
+    L = plt.legend()
+    L.get_texts()[0].set_text('observed')
+    L.get_texts()[1].set_text('predicted')
+
     plt.show()
 
 

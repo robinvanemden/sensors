@@ -62,7 +62,7 @@ plt.show()
 #                      seasonal=True, trace=True,
 #                      error_action="ignore", suppress_warnings=True)
 
-# Best model: ARIMA(0,1,2)(2,0,0)[24] AIC=80295.111  (ARIMA(5,1,0)(1,0,0)[24])
+# Best model: ARIMA(0,1,2)(2,0,0)[24] AIC=80295.111
 
 
 # --- fit seasonal arima ---

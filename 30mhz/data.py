@@ -4,7 +4,7 @@
     JADS 2020 Data-Driven Food Value Chain course
     Introduction to Sensors
 
-    Reads a .csv file as exported from the 30Mhz Zensie dashboard.
+    Reads a .csv file as exported from the 30Mhz Zensie dashboard
     into a Python Pandas DataFrame.
 
 """

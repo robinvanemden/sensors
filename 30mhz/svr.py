@@ -71,4 +71,5 @@ plt.plot(X_grid, regressor.predict(X_grid), color="blue")
 plt.title("SVR: Temperature / Humidity")
 plt.xlabel("Temperature (C)")
 plt.ylabel("Humidity (%)")
+
 plt.show()

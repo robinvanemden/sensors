@@ -52,5 +52,17 @@ states = pd.Series(states, index=sensor_df.timestamp)
 
 # --- plot prediction ---
 
-states.plot()
+ax = sensor_df.plot(x="timestamp",
+                    y=["Sensor kas 4 R (888) - Temperature (°C) - averages"],
+                    linestyle="",marker="o", color="b")
+
+
+ax = sensor_df.plot(x="timestamp", ax=ax,
+                    y=["Sensor kas 4 L (073) - Temperature (°C) - averages"],
+                    linestyle="",marker="o", color="g", )
+states.plot(ax=ax, color="r")
+L=plt.legend()
+L.get_texts()[0].set_text('observed temp 1')
+L.get_texts()[1].set_text('observed temp 2')
+L.get_texts()[2].set_text('predicted')
 plt.show()

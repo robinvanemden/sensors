@@ -10,9 +10,9 @@
 
 Create your own dashboard, and explore the greenhouse sensor data. Then download a dataset that interests you, and create a relevant model with it. 
 
-This model can be based on one of the available example models, or a new model from scratch, depending on your Python and data analytics skills. 
+Your new model can be based on one of the available example models, or you can create a new model from scratch, depending on your Python and data analytics skills. 
 
-Use at least two sensors to predict the output of another sensor.
+Use at least two sensors to predict the output of one other sensor.
 
 ### Micropython Lunar Lander filter exercise
 

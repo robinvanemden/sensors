@@ -10,8 +10,8 @@ Find an example of a live dashbord [here](https://cayenne.mydevices.com/shared/5
 1. Install [Visual Studio Code](https://code.visualstudio.com/) on your pc, Install PlatformIO in the extension, or you can install [PlatformIO IDE](https://platformio.org/platformio-ide),it's built on top of [Microsoft's Visual Studio Code](https://code.visualstudio.com/)
 2. Set the Cayenne authentication info to match the authentication info from the Dashboard.If you don't have an account, then [create an account](https://accounts.mydevices.com/auth/realms/cayenne/login-actions/registration?client_id=cayenne-web-app&tab_id=01AaoLwmlng)
 3. After logging in, you will see the dashboard, click **Add new** in the upper left,Choose **Generic ESP8266**,Then you can see the MQTT username, password and ID you need to use.
-5. Fill out the username, password and ID fields in `main.cpp` [here](https://github.com/robinvanemden/sensors/blob/db577df41cdc1295dc389832066775cd805a798e/higrow-sensor/src/main.cpp#L39-L42).
-6. Fill out WIFI username and password in `main.cpp` [here](https://github.com/robinvanemden/sensors/blob/db577df41cdc1295dc389832066775cd805a798e/higrow-sensor/src/main.cpp#L35-L37).
+5. Fill out the username, password and ID fields in `main.cpp` [here](https://github.com/robinvanemden/sensors/blob/d34218e337a78562e73d7c52e8f850a2deed7dfb/higrow/src/main.cpp#L40-L42).
+6. Fill out WIFI username and password in `main.cpp` [here](https://github.com/robinvanemden/sensors/blob/d34218e337a78562e73d7c52e8f850a2deed7dfb/higrow/src/main.cpp#L36-L37).
 4. Set the network name and password.
 5. In `platformio.ini` you need to change the port number corresponding to your board
 6. Compile and upload the sketch.(The arrow at the bottom left of the IDE editor)

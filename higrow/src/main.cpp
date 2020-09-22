@@ -33,13 +33,13 @@ This example shows how to connect to Cayenne using an LilyGO T-HiGrow and send/r
 
 
 // WiFi network info.
-char ssid[] = "pavlov";
-char wifiPassword[] = "kreelkat";
+char ssid[] = "ssidname";
+char wifiPassword[] = "password";
 
 // Cayenne authentication info. This should be obtained from the Cayenne Dashboard.
-char username[] = "ace0ac50-f4fd-11ea-883c-638d8ce4c23d";
-char password[] = "1bc06837c22d877a3d14187674addfce73f6ad1c";
-char clientID[] = "cf904d80-f4ff-11ea-b767-3f1a8f1211ba"; // plant in living room
+char username[] = "ace0ac50-f4fd-11ea-883c-638d8ce4c13d";
+char password[] = "1bc06837c22d877a3d14187674addfce73f1ad1c";
+char clientID[] = "cf904d80-f4ff-11ea-b767-3f1a8f1213ba"; 
 
 #define TEMPERATURE_VIRTUAL_CHANNEL 1
 #define BAROMETER_VIRTUAL_CHANNEL 2

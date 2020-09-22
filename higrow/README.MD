@@ -13,7 +13,7 @@ Find an example of a live dashbord [here](https://cayenne.mydevices.com/shared/5
 5. Fill out the username, password and ID fields in `main.cpp` [here](https://github.com/robinvanemden/sensors/blob/d34218e337a78562e73d7c52e8f850a2deed7dfb/higrow/src/main.cpp#L40-L42).
 6. Fill out WIFI username and password in `main.cpp` [here](https://github.com/robinvanemden/sensors/blob/d34218e337a78562e73d7c52e8f850a2deed7dfb/higrow/src/main.cpp#L36-L37).
 4. Set the network name and password.
-5. In `platformio.ini` you need to change the port number corresponding to your board
+5. In `platformio.ini` you need to change the virtual COM port number that your HiGrow has connected to on your computer [here](https://github.com/robinvanemden/sensors/blob/c22cb0bfc83a89df9d313deb7242018ab47bb622/higrow/platformio.ini#L18-L19)
 6. Compile and upload the sketch.(The arrow at the bottom left of the IDE editor)
 7. A temporary widget will be automatically generated in the Cayenne Dashboard. To make the widget permanent click the plus sign on the widget.
 

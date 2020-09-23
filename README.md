@@ -22,8 +22,6 @@ One of the main differences of coding for an MCU is that they offer very few res
 
 The Lunar Lander assignment requires you to implement a filter while working around these limits.
 
-The most creative solution can win a PyBoard (for those interested in owning one).
-
 ### MQTT mini-exercise
 
 [MQTT chat](mqtt)

@@ -28,7 +28,7 @@ Run the minimal MQTT chat example, and chat with your follow students. Work toge
 
 [Scailable 101](https://github.com/scailable/sclbl-tutorials/blob/master/sclbl-101-getting-started/README.md)
 
-Test drive the Scailable edge computing platform. Follow [Scailable 101](https://github.com/scailable/sclbl-tutorials/blob/master/sclbl-101-getting-started/README.md) to get started! 
+Fit a Python Sklearn SVR model on the time series data from the first exercise, convert it to WebAssembly, and make it available as a rest endpoint using the the Scailable edge computing platform. Follow [Scailable 101](https://github.com/scailable/sclbl-tutorials/blob/master/sclbl-101-getting-started/README.md) to get started.
 
 ### TTGO HiGrow example code
 

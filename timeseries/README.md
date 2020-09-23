@@ -41,7 +41,7 @@ Next, install PyTorch itself according to https://pytorch.org/get-started/locall
 
 ### [sarima.py](sarima.py)
 
-Basic Seasonal (S)ARIMA model on PAR Sensor (sunlight) data.
+Basic Seasonal SARIMAX model on PAR Sensor (sunlight) data.
 
 ```
 # install dependencies

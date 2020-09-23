@@ -1,6 +1,6 @@
 ![](images/sensor.png)
 
-## Introduction to Sensors - data, examples, and exercises
+## Introduction to Sensors
 
 ### Time series modeling exercise
 

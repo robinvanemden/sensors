@@ -36,7 +36,7 @@ Fit a Python Sklearn SVR model on the time series data from the first exercise, 
 
 [TTGO HiGrow with MQTT Cayenne integration](higrow)
 
-An exercise with the TTGO HiGrow: a $10 microcontroller based device with several plant related sensors. Use your HiGrow Device to measure the environment of one of your own plants for a week, then analyse the resulting data with a time series model.
+An exercise with the [TTGO HiGrow](https://www.tindie.com/products/ttgo/lilygorttgo-t-higrow/): a $10 microcontroller based device with several plant related sensors. Use your HiGrow Device to measure the environment of one of your own plants for a week, then analyse the resulting data with a time series model.
 
 
 

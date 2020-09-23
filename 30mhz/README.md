@@ -3,15 +3,13 @@
 
 ## Data sets 
 
-[Click here for an overview of Zensie presaved data sets](data) 
-
-If you have an account, access the Zensie dashboard at https://login.zensie.30mhz.com/ and create your own data sets.
+[Click here for an overview available data sets](data) 
 
 ## Example scripts for 30mhz exercises
 
 ### import.py
 
-Reads a .csv file as exported from the 30Mhz Zensie dashboard
+Reads one of the example .csv files
 into a Python Pandas DataFrame.
 
 ```
@@ -66,8 +64,3 @@ pip sklearn matplotlib pandas numpy
 ```
 
 ![](../images/models/svr.png)
-
-
-### 30Mhz greenhouse
-
-![](../images/grower.jpg)

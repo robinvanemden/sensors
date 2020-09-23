@@ -1,5 +1,3 @@
-# JADS Data-Driven Food Value Chain
-
 ![](images/sensor.png)
 
 ## Introduction to Sensors - data, examples, and exercises
@@ -8,9 +6,7 @@
 
 [Example models and data](30mhz)
 
-Create your own dashboard, and explore the greenhouse sensor data. Then download a dataset that interests you, and create a relevant model with it. 
-
-Your new model can be based on one of the available example models, or you can create a new model from scratch, depending on your Python and data analytics skills. 
+Create a model based on one of the four available example models, or you create a new model from scratch. 
 
 Use at least two sensors to predict the output of one other sensor.
 

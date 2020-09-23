@@ -1,6 +1,6 @@
 # T-HiGrow Dashboard
 
-💦 ☀💨🌹 The sample code is based on the **[LilyGO T-HiGrow](https://www.aliexpress.com/item/32815782900.html)** multi-sensor board, which gets the on-board sensor data and uploads it to **[Cayenne](https://cayenne.mydevices.com/)**.
+The sample code is based on the **[LilyGO T-HiGrow](https://www.aliexpress.com/item/32815782900.html)** multi-sensor board, which gets the on-board sensor data and uploads it to **[Cayenne](https://cayenne.mydevices.com/)**.
 
 Find an example of a live dashbord [here](https://cayenne.mydevices.com/shared/5f5d15c82130755bb2a55562/project/e9af04f1-b554-4317-b4fb-5e5d4d831b7d).
 

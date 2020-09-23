@@ -8,7 +8,7 @@
 
 [Example models and data](timeseries)
 
-Create a model based on one of four available example machine learning models (Kalman, Arima, RNN, or SVR), or create a new model from scratch. 
+Create a model based on one of four available example machine learning models (Kalman, SARIMAX, RNN, or SVR), or create a new model from scratch. 
 
 Use at least two sensors to predict the output of one other sensor.
 

@@ -2,11 +2,11 @@
 
 ## Introduction to Sensors - data, examples, and exercises
 
-### 30Mhz main exercise
+### Time series modeling exercise
 
 [Example models and data](30mhz)
 
-Create a model based on one of the four available example models, or you create a new model from scratch. 
+Create a model based on one of four available example models, or you create a new model from scratch. 
 
 Use at least two sensors to predict the output of one other sensor.
 

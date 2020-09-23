@@ -1,4 +1,4 @@
-## 30Mhz Zensie pre-saved data sets
+## Pre-saved data sets (supplied by 30Mhz.com)
 
 CSV file with one data point per hour for all sensors for a week:
 

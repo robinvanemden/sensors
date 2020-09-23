@@ -4,7 +4,7 @@
 
 ### Time series modeling exercise
 
-[Example models and data](30mhz)
+[Example models and data](timeseries)
 
 Create a model based on one of four available example models, or create a new model from scratch. 
 

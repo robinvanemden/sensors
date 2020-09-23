@@ -5,7 +5,7 @@
 
 [Click here for an overview available data sets](data) 
 
-## Example scripts for 30mhz exercises
+## Example scripts for time series exercises
 
 ### import.py
 

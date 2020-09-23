@@ -1,7 +1,4 @@
-## Data sets and example code
-
-
-## Data sets 
+## Data sets to be used in the exercises
 
 [Click here for an overview available data sets](data) 
 

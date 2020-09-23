@@ -4,7 +4,7 @@
 
 ## Example scripts for time series exercises
 
-### [import.py](import.py)
+### [data.py](data.py)
 
 Reads one of the example .csv files
 into a Python Pandas DataFrame.
@@ -50,7 +50,7 @@ pip statsmodels matplotlib pmdarima pandas numpy
 
 ![](../images/models/sarima.png)
 
-### svr.py
+### [svr.py](svr.py)
 
 Support Vector Regression model
 that predicts humidity from temperature sensor data.

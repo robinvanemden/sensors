@@ -16,6 +16,3 @@ Find an example of a live dashbord [here](https://cayenne.mydevices.com/shared/5
 5. In `platformio.ini` you need to change the virtual COM port number that your HiGrow has connected to on your computer [here](https://github.com/robinvanemden/sensors/blob/c22cb0bfc83a89df9d313deb7242018ab47bb622/higrow/platformio.ini#L18-L19)
 6. Compile and upload the sketch.(The arrow at the bottom left of the IDE editor)
 7. A temporary widget will be automatically generated in the Cayenne Dashboard. To make the widget permanent click the plus sign on the widget.
-
-# Cayenne data fields
-![](image/2.png)

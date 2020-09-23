@@ -4,7 +4,7 @@
 
 ## Example scripts for time series exercises
 
-### import.py
+### [import.py](import.py)
 
 Reads one of the example .csv files
 into a Python Pandas DataFrame.
@@ -14,7 +14,7 @@ into a Python Pandas DataFrame.
 pip install pandas matplotlib
 ```
 
-### kalman.py
+### [kalman.py](kalman.py)
 
 Kalman sensor fusion example.
 
@@ -25,7 +25,7 @@ pip install pandas matplotlib pykalman numpy scipy
 
 ![](../images/models/kalman.png)
 
-### pytorch.py
+### [pytorch.py](pytorch.py)
 
 Basic Pytorch RNN temperature model
 that predicts average greenhouse temperature sensor data
@@ -39,7 +39,7 @@ Next, install PyTorch itself according to https://pytorch.org/get-started/locall
 
 ![](../images/models/rnn.png)
 
-### sarima.py
+### [sarima.py](sarima.py)
 
 Basic Seasonal (S)ARIMA model on PAR Sensor (sunlight) data.
 

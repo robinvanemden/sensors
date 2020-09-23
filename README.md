@@ -34,7 +34,7 @@ Fit a Python Sklearn SVR model on the time series data from the first exercise, 
 
 [TTGO HiGrow with MQTT Cayenne integration](higrow)
 
-An example of a plant sensor to MQTT based dashboard solution. 
+An example of a plant sensor to MQTT based dashboard solution. Use your HiGrow Device to measure one of your own plants for a week, and analyse the resulting data with a time series model.
 
 
 

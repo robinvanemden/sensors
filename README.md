@@ -32,11 +32,11 @@ Run the minimal MQTT chat example, and chat with your follow students. Work toge
 
 Fit a Python Sklearn SVR model on the time series data from the first exercise, convert it to WebAssembly, and make it available as a rest endpoint using the the Scailable edge computing platform. Follow [Scailable 101](https://github.com/scailable/sclbl-tutorials/blob/master/sclbl-101-getting-started/README.md) to get started.
 
-### TTGO HiGrow
+### TTGO HiGrow exercise
 
 [TTGO HiGrow with MQTT Cayenne integration](higrow)
 
-An example of a plant sensor to MQTT based dashboard solution. Use your HiGrow Device to measure one of your own plants for a week, and analyse the resulting data with a time series model.
+An exercise with the TTGO HiGrow: a $10 microcontroller based device with several plant related sensors. Use your HiGrow Device to measure the environment of one of your own plants for a week, then analyse the resulting data with a time series model.
 
 
 

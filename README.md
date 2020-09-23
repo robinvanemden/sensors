@@ -6,7 +6,7 @@
 
 [Example models and data](30mhz)
 
-Create a model based on one of four available example models, or you create a new model from scratch. 
+Create a model based on one of four available example models, or create a new model from scratch. 
 
 Use at least two sensors to predict the output of one other sensor.
 
@@ -28,13 +28,13 @@ A minimal MQTT chat example. Run it, and chat with your follow students. Feel cr
 
 [Scailable 101](https://github.com/scailable/sclbl-tutorials/blob/master/sclbl-101-getting-started/README.md)
 
-Time left? Help us out, and test drive our Scailable platform! Just follow the [Scailable 101](https://github.com/scailable/sclbl-tutorials/blob/master/sclbl-101-getting-started/README.md) to get started! 
+Test drive the Scailable edge computing platform. Follow [Scailable 101](https://github.com/scailable/sclbl-tutorials/blob/master/sclbl-101-getting-started/README.md) to get started! 
 
 ### TTGO HiGrow example code
 
 [TTGO HiGrow with MQTT Cayenne integration](higrow)
 
-An example of a complete sensor board to dashboard solution. 
+An example of a plant sensor to MQTT based dashboard solution. 
 
 
 

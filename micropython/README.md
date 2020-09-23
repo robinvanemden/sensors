@@ -1,5 +1,3 @@
-## JADS: Data-Driven Food Value Chain | Introduction to Sensors
-
 ## MicroPython Lunar Lander filter exercise
 
 One of the main differences of coding for an MCU is that they 

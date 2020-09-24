@@ -55,8 +55,6 @@ states = pd.Series(states, index=sensor_df.timestamp)
 ax = sensor_df.plot(x="timestamp",
                     y=["Sensor kas 4 R (888) - Temperature (°C) - averages"],
                     linestyle="",marker="o", color="b")
-
-
 ax = sensor_df.plot(x="timestamp", ax=ax,
                     y=["Sensor kas 4 L (073) - Temperature (°C) - averages"],
                     linestyle="",marker="o", color="g", )

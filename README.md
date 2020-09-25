@@ -2,7 +2,7 @@
 
 ## Introduction to Sensors
 
-💦🌱 [Lecture slides](https://github.com/robinvanemden/sensors/tree/master/_course_slides) ☀🌳
+💦🌱 [lecture slides](https://github.com/robinvanemden/sensors/tree/master/_course_slides) ☀🌳
 
 ### Time series modeling exercise
 

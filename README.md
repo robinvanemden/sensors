@@ -16,7 +16,7 @@ Use at least two sensors to predict the output of one other sensor.
 
 [Micropython filtering](micropython)
 
-One of the main differences of coding for an MCU is that they offer very few resources. It is generally not possible to use large Python libraries such Numpy or Scipy.
+One of the main differences of coding for an MCU is that they offer very few resources. It is generally not possible to use large Python libraries such Numpy, Scipy or PyTorch.
 
 The Lunar Lander assignment requires you to implement a filter while working around these limits.
 

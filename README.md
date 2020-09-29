@@ -8,7 +8,7 @@
 
 [Example models and data](timeseries)
 
-Use [greenhouse data](timeseries/data) to create a model based on one of four available example machine learning models ([Kalman](timeseries/kalman.py), [SARIMAX](timeseries/sarima.py), [RNN](timeseries/pytorch.py), or [SVR](timeseries/svr.py)), or create a new model from scratch. 
+Use [greenhouse data](timeseries/data) to create a Python model based on one of four available example machine learning models ([Kalman](timeseries/kalman.py), [SARIMAX](timeseries/sarima.py), [RNN](timeseries/pytorch.py), or [SVR](timeseries/svr.py)), or create a new model from scratch. 
 
 Use at least two sensors to predict the output of one other sensor.
 
